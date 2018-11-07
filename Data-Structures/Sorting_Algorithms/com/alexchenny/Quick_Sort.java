@@ -1,4 +1,4 @@
-package Sorting_Algorithm;
+package com.alexchenny;
 
 public class Quick_Sort {
 
